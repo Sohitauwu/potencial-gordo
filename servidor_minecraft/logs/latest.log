@@ -1,0 +1,271 @@
+[01:11:30] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.4+7-LTS; Microsoft Microsoft-9889606) on Linux 6.5.0-1025-azure (amd64)
+[01:11:30] [ServerMain/INFO]: [bootstrap] Loading Purpur 1.21-2284-ver/1.21@4e55e26 (2024-08-10T17:35:56Z) for Minecraft 1.21
+[01:11:31] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[01:11:41] [ServerMain/INFO]: [PluginInitializerManager] Initialized 15 plugins
+[01:11:41] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (15):
+ - AuraSkills (2.2.1), Coordinates (0.2.2), Essentials (2.21.0-dev+128-0b49421), EssentialsChat (2.21.0-dev+128-0b49421), FastAsyncWorldEdit (2.11.0), HoloMobHealth (2.3.11.0), JodellePowerMining (21.06), LagAssist (2.30.0), MobsToEggs (1.7.14), PlugManX (2.4.1), ProtocolLib (5.3.0), SkinsRestorer (15.4.4), TeaksTweaks (2.0.4), UltraSetHome (1.7.9), WorldEditSelectionVisualizer (2.1.7)
+[01:11:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:11:57] [ServerMain/INFO]: Loaded 1290 recipes
+[01:11:58] [ServerMain/INFO]: Loaded 1399 advancements
+[01:11:59] [Server thread/INFO]: Starting minecraft server version 1.21
+[01:11:59] [Server thread/INFO]: Loading properties
+[01:11:59] [Server thread/INFO]: This server is running Purpur version 1.21-2284-ver/1.21@4e55e26 (2024-08-10T17:35:56Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[01:12:00] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[01:12:00] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:12:00] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:12:02] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[01:12:03] [Server thread/INFO]: Default game type: SURVIVAL
+[01:12:03] [Server thread/INFO]: Generating keypair
+[01:12:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:12:04] [Server thread/INFO]: Using epoll channel type
+[01:12:04] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[01:12:04] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[01:12:07] [Server thread/INFO]: [SpigotLibraryLoader] [TeaksTweaks] Loading 4 libraries... please wait
+[01:12:08] [Server thread/INFO]: [SpigotLibraryLoader] [TeaksTweaks] Loaded library /workspaces/potencial-gordo/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.17.0/adventure-text-minimessage-4.17.0.jar
+[01:12:08] [Server thread/INFO]: [SpigotLibraryLoader] [TeaksTweaks] Loaded library /workspaces/potencial-gordo/servidor_minecraft/libraries/net/kyori/adventure-api/4.17.0/adventure-api-4.17.0.jar
+[01:12:08] [Server thread/INFO]: [SpigotLibraryLoader] [TeaksTweaks] Loaded library /workspaces/potencial-gordo/servidor_minecraft/libraries/net/kyori/adventure-key/4.17.0/adventure-key-4.17.0.jar
+[01:12:08] [Server thread/INFO]: [SpigotLibraryLoader] [TeaksTweaks] Loaded library /workspaces/potencial-gordo/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[01:12:08] [Server thread/INFO]: [SpigotLibraryLoader] [TeaksTweaks] Loaded library /workspaces/potencial-gordo/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[01:12:08] [Server thread/INFO]: [SpigotLibraryLoader] [TeaksTweaks] Loaded library /workspaces/potencial-gordo/servidor_minecraft/libraries/org/jetbrains/annotations/24.1.0/annotations-24.1.0.jar
+[01:12:08] [Server thread/INFO]: [SpigotLibraryLoader] [TeaksTweaks] Loaded library /workspaces/potencial-gordo/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.3/adventure-platform-bukkit-4.3.3.jar
+[01:12:08] [Server thread/INFO]: [SpigotLibraryLoader] [TeaksTweaks] Loaded library /workspaces/potencial-gordo/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.3/adventure-platform-api-4.3.3.jar
+[01:12:08] [Server thread/INFO]: [SpigotLibraryLoader] [TeaksTweaks] Loaded library /workspaces/potencial-gordo/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.3/adventure-text-serializer-bungeecord-4.3.3.jar
+[01:12:08] [Server thread/INFO]: [SpigotLibraryLoader] [TeaksTweaks] Loaded library /workspaces/potencial-gordo/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.jar
+[01:12:08] [Server thread/INFO]: [SpigotLibraryLoader] [TeaksTweaks] Loaded library /workspaces/potencial-gordo/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[01:12:08] [Server thread/INFO]: [SpigotLibraryLoader] [TeaksTweaks] Loaded library /workspaces/potencial-gordo/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.13.1/adventure-text-serializer-gson-4.13.1.jar
+[01:12:08] [Server thread/INFO]: [SpigotLibraryLoader] [TeaksTweaks] Loaded library /workspaces/potencial-gordo/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[01:12:08] [Server thread/INFO]: [SpigotLibraryLoader] [TeaksTweaks] Loaded library /workspaces/potencial-gordo/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.3/adventure-platform-facet-4.3.3.jar
+[01:12:08] [Server thread/INFO]: [SpigotLibraryLoader] [TeaksTweaks] Loaded library /workspaces/potencial-gordo/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.3/adventure-platform-viaversion-4.3.3.jar
+[01:12:08] [Server thread/INFO]: [SpigotLibraryLoader] [TeaksTweaks] Loaded library /workspaces/potencial-gordo/servidor_minecraft/libraries/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar
+[01:12:08] [Server thread/INFO]: [SpigotLibraryLoader] [TeaksTweaks] Loaded library /workspaces/potencial-gordo/servidor_minecraft/libraries/junit/junit/4.10/junit-4.10.jar
+[01:12:08] [Server thread/INFO]: [SpigotLibraryLoader] [TeaksTweaks] Loaded library /workspaces/potencial-gordo/servidor_minecraft/libraries/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar
+[01:12:08] [Server thread/INFO]: [SpigotLibraryLoader] [TeaksTweaks] Loaded library /workspaces/potencial-gordo/servidor_minecraft/libraries/com/squareup/okhttp3/okhttp/4.9.3/okhttp-4.9.3.jar
+[01:12:08] [Server thread/INFO]: [SpigotLibraryLoader] [TeaksTweaks] Loaded library /workspaces/potencial-gordo/servidor_minecraft/libraries/com/squareup/okio/okio/2.8.0/okio-2.8.0.jar
+[01:12:08] [Server thread/INFO]: [SpigotLibraryLoader] [TeaksTweaks] Loaded library /workspaces/potencial-gordo/servidor_minecraft/libraries/org/jetbrains/kotlin/kotlin-stdlib-common/1.4.0/kotlin-stdlib-common-1.4.0.jar
+[01:12:08] [Server thread/INFO]: [SpigotLibraryLoader] [TeaksTweaks] Loaded library /workspaces/potencial-gordo/servidor_minecraft/libraries/org/jetbrains/kotlin/kotlin-stdlib/1.4.10/kotlin-stdlib-1.4.10.jar
+[01:12:09] [Server thread/INFO]: [SpigotLibraryLoader] [MobsToEggs] Loading 1 libraries... please wait
+[01:12:09] [Server thread/INFO]: [SpigotLibraryLoader] [MobsToEggs] Loaded library /workspaces/potencial-gordo/servidor_minecraft/libraries/org/jetbrains/kotlin/kotlin-stdlib/1.9.22/kotlin-stdlib-1.9.22.jar
+[01:12:09] [Server thread/INFO]: [SpigotLibraryLoader] [MobsToEggs] Loaded library /workspaces/potencial-gordo/servidor_minecraft/libraries/org/jetbrains/annotations/13.0/annotations-13.0.jar
+[01:12:11] [Server thread/INFO]: [UltraSetHome] Loading server plugin UltraSetHome v1.7.9
+[01:12:11] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
+[01:12:12] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+128-0b49421
+[01:12:12] [Server thread/INFO]: [FastAsyncWorldEdit] Loading server plugin FastAsyncWorldEdit v2.11.0
+[01:12:20] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@236a377e]
+[01:12:20] [Server thread/INFO]: [Coordinates] Loading server plugin Coordinates v0.2.2
+[01:12:20] [Server thread/INFO]: [AuraSkills] Loading server plugin AuraSkills v2.2.1
+[01:12:20] [Server thread/INFO]: [TeaksTweaks] Loading server plugin TeaksTweaks v2.0.4
+[01:12:20] [Server thread/INFO]: [HoloMobHealth] Loading server plugin HoloMobHealth v2.3.11.0
+[01:12:20] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.21.0-dev+128-0b49421
+[01:12:20] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
+[01:12:20] [Server thread/INFO]: [MobsToEggs] Loading server plugin MobsToEggs v1.7.14
+[01:12:20] [Server thread/INFO]: [WESV] Loading server plugin WorldEditSelectionVisualizer v2.1.7
+[01:12:20] [Server thread/INFO]: [LagAssist] Loading server plugin LagAssist v2.30.0
+[01:12:20] [Server thread/INFO]: [PlugManX] Loading server plugin PlugManX v2.4.1
+[01:12:20] [Server thread/INFO]: [JodellePowerMining] Loading server plugin JodellePowerMining v21.06
+[01:12:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:12:20] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[01:12:20] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.11.0
+[01:12:20] [Server thread/ERROR]: [FastAsyncWorldEdit] 
+**********************************************
+** /!\    SEVERE WARNING    /!\
+** 
+** A plugin developer has included a portion of 
+** FastAsyncWorldEdit into their own plugin, so rather than using
+** the version of FastAsyncWorldEdit that you downloaded, you
+** will be using a broken mix of old FastAsyncWorldEdit (that came
+** with the plugin) and your downloaded version. THIS MAY
+** SEVERELY BREAK FASTASYNCWORLDEDIT AND ALL OF ITS FEATURES.
+**
+** This may have happened because the developer is using
+** the FastAsyncWorldEdit API and thinks that including
+** FastAsyncWorldEdit is necessary. However, it is not!
+**
+** Here are some files that have been overridden:
+** 
+** 'CommandManager' came from 'JodellePowerMining (file:/workspaces/potencial-gordo/servidor_minecraft/plugins/.paper-remapped/JodellePowerMining.jar)'
+** 'Actor' came from 'JodellePowerMining (file:/workspaces/potencial-gordo/servidor_minecraft/plugins/.paper-remapped/JodellePowerMining.jar)'
+** 'World' came from 'JodellePowerMining (file:/workspaces/potencial-gordo/servidor_minecraft/plugins/.paper-remapped/JodellePowerMining.jar)'
+** 'EditSession' came from 'JodellePowerMining (file:/workspaces/potencial-gordo/servidor_minecraft/plugins/.paper-remapped/JodellePowerMining.jar)'
+**
+** Please report this to the plugins' developers.
+**********************************************
+
+[01:12:21] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[01:12:21] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[01:12:22] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[01:12:22] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[01:12:24] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_21_R1.PaperweightFaweAdapter as the Bukkit adapter
+[01:12:26] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
+[01:12:28] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[01:12:30] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[01:12:32] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[01:12:32] [Server thread/INFO]: [PlugManX] Enabling PlugManX v2.4.1
+[01:12:32] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[01:12:32] [Server thread/WARN]: [PlugManX] It seems like you're running on paper.
+[01:12:32] [Server thread/WARN]: [PlugManX] PlugManX cannot interact with paper-plugins, yet.
+[01:12:32] [Server thread/WARN]: [PlugManX] Also, if you encounter any issues, please join my discord: https://discord.gg/GxEFhVY6ff
+[01:12:32] [Server thread/WARN]: [PlugManX] Or create an issue on GitHub: https://github.com/TheBlackEntity/PlugMan
+[01:12:32] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[01:12:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:12:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[01:12:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[01:12:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[01:12:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[01:12:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[01:12:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:12:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.4
+[01:12:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dc501c7
+[01:12:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[01:12:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:12:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[01:12:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[01:12:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:12:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:12:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:12:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:12:33] [Server thread/INFO]: Preparing level "world"
+[01:12:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:12:38] [Server thread/INFO]: Time elapsed: 2510 ms
+[01:12:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:12:40] [Server thread/INFO]: Time elapsed: 1885 ms
+[01:12:40] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:12:41] [Server thread/INFO]: Time elapsed: 485 ms
+[01:12:41] [Server thread/INFO]: [UltraSetHome] Enabling UltraSetHome v1.7.9
+[01:12:44] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+128-0b49421
+[01:12:47] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[01:12:47] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[01:12:47] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[01:12:48] [Server thread/INFO]: [Essentials] Loaded 42779 items from items.json.
+[01:12:48] [Server thread/INFO]: [Essentials] Using locale es
+[01:12:49] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[01:12:49] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[01:12:49] [Server thread/INFO]: [UltraSetHome] Essentials hooked successfully.
+[01:12:49] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[01:12:49] [Server thread/INFO]: [Coordinates] Enabling Coordinates v0.2.2
+[01:12:49] [Server thread/INFO]: [Coordinates] Coordinates plugin has been enabled
+[01:12:49] [Server thread/INFO]: [AuraSkills] Enabling AuraSkills v2.2.1
+[01:12:51] [Server thread/INFO]: [AuraSkills] Loaded 21 message files
+[01:12:53] [Server thread/INFO]: [AuraSkills] Successfully registered hook ProtocolLib
+[01:12:53] [Server thread/INFO]: [AuraSkills] Loaded 148 config options in 206 ms
+[01:12:53] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21! Trying to find NMS support
+[01:12:53] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R1' loaded!
+[01:12:53] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
+[01:12:53] [Server thread/INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
+[01:12:54] [Server thread/INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
+[01:12:55] [Server thread/INFO]: [TeaksTweaks] Enabling TeaksTweaks v2.0.4
+[01:12:55] [Server thread/INFO]: [TeaksTweaks] [INFO] Updated Plugin Config
+[01:12:55] [Server thread/INFO]: [TeaksTweaks] [INFO] Loaded language file: en.json
+[01:12:56] [Server thread/INFO]: [TeaksTweaks] [INFO] Updated language file: en.json
+[01:12:56] [Server thread/INFO]: [TeaksTweaks] [INFO] Registered Command: /teakstweaks
+[01:12:56] [Server thread/INFO]: [TeaksTweaks] [INFO] Registered Command: /mechanics
+[01:12:56] [Server thread/INFO]: [TeaksTweaks] [INFO] Registered Command: /packlist
+[01:12:56] [Server thread/INFO]: [TeaksTweaks] [INFO]  
+[01:12:56] [Server thread/INFO]: [TeaksTweaks] [INFO] Teak's Tweaks v2.0.4 has started!
+[01:12:56] [Server thread/INFO]: [TeaksTweaks] [INFO]  
+[01:12:57] [Server thread/INFO]: [HoloMobHealth] Enabling HoloMobHealth v2.3.11.0
+[01:13:03] [Server thread/INFO]: [HoloMobHealth] Loading languages...
+[01:13:03] [Server thread/INFO]: [HoloMobHealth] Opened Sqlite database successfully
+[01:13:03] [Server thread/INFO]: [HoloMobHealth] HoloMobHealth has been Enabled!
+[01:13:03] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.21.0-dev+128-0b49421
+[01:13:03] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[01:13:03] [Server thread/INFO]: [MobsToEggs] Enabling MobsToEggs v1.7.14
+[01:13:03] [Server thread/INFO]: [MobsToEggs] Loading files for MobsToEggs...
+[01:13:03] [Server thread/INFO]: [MobsToEggs] Loading language: en
+[01:13:03] [Server thread/INFO]: [MobsToEggs] Using Dependencies:
+[01:13:03] [Server thread/INFO]: [MobsToEggs] ✔️ [None]
+[01:13:03] [Server thread/INFO]: [MobsToEggs] ❌ [Vault, WorldGuard, MythicMobs, NBTAPI, StackMob, Towny]
+[01:13:03] [Server thread/INFO]: [WESV] Enabling WorldEditSelectionVisualizer v2.1.7
+[01:13:03] [Server thread/INFO]: [WESV] Using WorldEdit 7 api
+[01:13:04] [Server thread/INFO]: [LagAssist] Enabling LagAssist v2.30.0
+[01:13:04] [Server thread/INFO]: §2§lLag§f§lAssist §e» §fEnabling Systems:
+[01:13:04] [Server thread/INFO]:     §e[§a✔§e] §fEconomy manager
+[01:13:04] [Server thread/INFO]:     §e[§a✔§e] §fSmart Mob Tools.
+[01:13:04] [Server thread/INFO]:     §e[§a✔§e] §fMicroFeatures.
+[01:13:04] [Server thread/INFO]:     §e[§a✔§e] §fHopper Manager.
+[01:13:04] [Server thread/INFO]:     §e[§a✔§e] §fRedstone Culler.
+[01:13:04] [Server thread/INFO]:     §e[§a✔§e] §fPhysics-Tweaker.
+[01:13:04] [Server thread/INFO]:     §e[§a✔§e] §fLag Monitor.
+[01:13:04] [Server thread/INFO]:     §e[§a✔§e] §fMapVisualizer.
+[01:13:04] [Server thread/INFO]:     §e[§a✔§e] §fChunk Analyser.
+[01:13:04] [Server thread/INFO]:     §e[§a✔§e] §fChunk Limiter.
+[01:13:04] [Server thread/INFO]:     §e[§a✔§e] §fStatsAnalyse.
+[01:13:04] [Server thread/INFO]:     §e[§a✔§e] §fSpawner Manager.
+[01:13:04] [Server thread/INFO]:     §e[§a✔§e] §fGUI.
+[01:13:04] [Server thread/INFO]:     §e[§a✔§e] §fInjecting PacketListener.
+[01:13:04] [Server thread/INFO]:     §e[§a✔§e] §fAPI Tools.
+[01:13:04] [Server thread/INFO]: [JodellePowerMining] Enabling JodellePowerMining v21.06
+[01:13:04] [Server thread/INFO]: [JodellePowerMining] Finished processing config file.
+[01:13:04] [Server thread/INFO]: [JodellePowerMining] JodellePowerMining plugin was enabled.
+[01:13:05] [Server thread/INFO]: [spark] Starting background profiler...
+[01:13:06] [Server thread/INFO]: Done preparing level "world" (32.817s)
+[01:13:06] [Server thread/INFO]: Running delayed init tasks
+[01:13:06] [Craft Scheduler Thread - 6 - Essentials/INFO]: [Essentials] Obteniendo información de versión...
+[01:13:06] [Craft Scheduler Thread - 8 - LagAssist/INFO]: §2§lLag§f§lAssist §e» §fYou are up to date with LagAssist.
+[01:13:08] [Server thread/INFO]: [AuraSkills] Loaded 11 skills with 312 total sources
+[01:13:08] [Server thread/INFO]: [AuraSkills] Loaded 9 stats and 17 traits
+[01:13:08] [Server thread/INFO]: [AuraSkills] Loaded 22 pattern rewards and 0 level rewards
+[01:13:08] [Server thread/INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
+[01:13:10] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:13:10] [Server thread/INFO]: [AuraSkills] Loaded 6 menus
+[01:13:10] [Server thread/INFO]: [UltraSetHome] You are using the latest version of UltraSetHome.
+[01:13:10] [Server thread/INFO]: Done (102.631s)! For help, type "help"
+[01:13:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4487ms or 89 ticks behind
+[01:13:11] [Craft Scheduler Thread - 7 - HoloMobHealth/INFO]: [HoloMobHealth] Loaded all 1 languages!
+[01:13:31] [User Authenticator #0/INFO]: UUID of player sohitabb is 2e6fabd0-cb70-326d-b962-46cdf5cc9b0c
+[01:13:31] [Server thread/INFO]: sohitabb (/100.82.225.41:62598) lost connection: Disconnected
+[01:13:39] [User Authenticator #0/INFO]: UUID of player sohitabb is 2e6fabd0-cb70-326d-b962-46cdf5cc9b0c
+[01:13:41] [Server thread/INFO]: sohitabb joined the game
+[01:13:41] [Server thread/INFO]: sohitabb[/100.82.225.41:62599] logged in with entity id 23 at ([world]294.3474223450847, 63.0, -1797.5047412872584)
+[01:13:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2507ms or 50 ticks behind
+[01:17:41] [Server thread/INFO]: sohitabb has made the advancement [Ice Bucket Challenge]
+[01:35:45] [Server thread/INFO]: sohitabb issued server command: /ultrasethome:homes
+[01:37:58] [Server thread/INFO]: sohitabb has made the advancement [Suit Up]
+[01:45:38] [Server thread/INFO]: sohitabb issued server command: /sethome portal
+[01:45:47] [Server thread/INFO]: sohitabb has made the advancement [We Need to Go Deeper]
+[01:45:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2796ms or 55 ticks behind
+[01:59:12] [Server thread/INFO]: sohitabb issued server command: /ultrasethome:homes
+[02:07:34] [Server thread/INFO]: sohitabb lost connection: Disconnected
+[02:07:35] [Server thread/INFO]: sohitabb left the game
+[02:08:00] [Server thread/INFO]: Stopping the server
+[02:08:00] [Server thread/INFO]: Stopping server
+[02:08:00] [Server thread/INFO]: [JodellePowerMining] Disabling JodellePowerMining v21.06
+[02:08:00] [Server thread/INFO]: [JodellePowerMining] PowerMining plugin was disabled.
+[02:08:00] [Server thread/INFO]: [PlugManX] Disabling PlugManX v2.4.1
+[02:08:00] [Server thread/INFO]: [LagAssist] Disabling LagAssist v2.30.0
+[02:08:01] [Server thread/INFO]: [WESV] Disabling WorldEditSelectionVisualizer v2.1.7
+[02:08:01] [Server thread/INFO]: [MobsToEggs] Disabling MobsToEggs v1.7.14
+[02:08:01] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.4
+[02:08:01] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.21.0-dev+128-0b49421
+[02:08:01] [Server thread/INFO]: [HoloMobHealth] Disabling HoloMobHealth v2.3.11.0
+[02:08:01] [Server thread/INFO]: [HoloMobHealth] HoloMobHealth has been Disabled!
+[02:08:01] [Server thread/INFO]: [TeaksTweaks] Disabling TeaksTweaks v2.0.4
+[02:08:01] [Server thread/INFO]: [TeaksTweaks] [INFO] Teak's Tweaks Shutting Down...
+[02:08:01] [Server thread/INFO]: [AuraSkills] Disabling AuraSkills v2.2.1
+[02:08:01] [Server thread/INFO]: [Coordinates] Disabling Coordinates v0.2.2
+[02:08:01] [Server thread/INFO]: [Coordinates] Coordinates plugin has been disabled
+[02:08:01] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.11.0
+[02:08:01] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[02:08:01] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+128-0b49421
+[02:08:01] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[02:08:01] [Server thread/INFO]: [UltraSetHome] Disabling UltraSetHome v1.7.9
+[02:08:01] [Server thread/INFO]: Saving players
+[02:08:01] [Server thread/INFO]: Saving worlds
+[02:08:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:08:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[02:08:01] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[02:08:01] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[02:08:01] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0.00s
+[02:08:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:08:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[02:08:01] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[02:08:01] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[02:08:02] [Server thread/INFO]: [ChunkHolderManager] Saved 348 block chunks, 29 entity chunks, 0 poi chunks in world 'world_nether' in 0.79s
+[02:08:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:08:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[02:08:02] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[02:08:02] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[02:08:02] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.10s
+[02:08:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:08:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:08:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:08:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

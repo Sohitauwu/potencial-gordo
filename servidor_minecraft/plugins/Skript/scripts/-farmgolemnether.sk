@@ -1,0 +1,3 @@
+every 30 seconds:
+    set {_location} to location at -412.50, 253, 395.50 in "world_nether"
+    spawn iron golem at {_location}

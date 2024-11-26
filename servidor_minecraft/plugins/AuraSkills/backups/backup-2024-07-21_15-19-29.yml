@@ -1,0 +1,53 @@
+backup_version: 2
+users:
+    2e6fabd0-cb70-326d-b962-46cdf5cc9b0c:
+        skills:
+            auraskills/enchanting: {level: 0, xp: 0.0}
+            auraskills/fighting: {level: 0, xp: 0.0}
+            auraskills/foraging: {level: 0, xp: 0.0}
+            auraskills/agility: {level: 0, xp: 0.0}
+            auraskills/fishing: {level: 0, xp: 0.0}
+            auraskills/excavation: {level: 0, xp: 0.0}
+            auraskills/alchemy: {level: 0, xp: 0.0}
+            auraskills/defense: {level: 0, xp: 0.0}
+            auraskills/farming: {level: 0, xp: 0.0}
+            auraskills/mining: {level: 0, xp: 0.0}
+            auraskills/archery: {level: 0, xp: 0.0}
+        mana: 20.0
+    3018a862-3ae2-30af-871c-67dbc3d649cb:
+        skills:
+            auraskills/enchanting: {level: 0, xp: 30.0}
+            auraskills/fighting: {level: 4, xp: 130.29999999999896}
+            auraskills/foraging: {level: 3, xp: 987.3399999999986}
+            auraskills/fishing: {level: 0, xp: 0.0}
+            auraskills/excavation: {level: 2, xp: 31.42999999999985}
+            auraskills/agility: {level: 6, xp: 2540.226000000003}
+            auraskills/alchemy: {level: 1, xp: 10.0}
+            auraskills/defense: {level: 5, xp: 177.1814964532855}
+            auraskills/farming: {level: 0, xp: 0.0}
+            auraskills/archery: {level: 0, xp: 16.0}
+            auraskills/mining: {level: 4, xp: 998.0900000000079}
+        mana: 28.0
+        trait_modifiers:
+        - {name: mining_luck_ability, trait: auraskills/mining_luck, value: 5.0}
+        - {name: excavation_luck_ability, trait: auraskills/excavation_luck, value: 10.0}
+        - {name: foraging_luck_ability, trait: auraskills/foraging_luck, value: 10.0}
+    4e87cd51-274e-3d58-99be-18e2e905ac2f:
+        skills:
+            auraskills/enchanting: {level: 3, xp: 113.20000000000003}
+            auraskills/fighting: {level: 4, xp: 1543.399999999998}
+            auraskills/foraging: {level: 4, xp: 102.53999999999812}
+            auraskills/fishing: {level: 0, xp: 0.0}
+            auraskills/excavation: {level: 1, xp: 119.90000000000109}
+            auraskills/agility: {level: 6, xp: 1663.1915999999987}
+            auraskills/alchemy: {level: 0, xp: 20.0}
+            auraskills/defense: {level: 5, xp: 1196.9761077105977}
+            auraskills/farming: {level: 1, xp: 17.6}
+            auraskills/archery: {level: 0, xp: 91.0}
+            auraskills/mining: {level: 5, xp: 160.8200000000035}
+        mana: 32.0
+        trait_modifiers:
+        - {name: mining_luck_ability, trait: auraskills/mining_luck, value: 5.0}
+        - {name: excavation_luck_ability, trait: auraskills/excavation_luck, value: 10.0}
+        - {name: foraging_luck_ability, trait: auraskills/foraging_luck, value: 10.0}
+        - {name: farming_luck_ability, trait: auraskills/farming_luck, value: 10.0}
